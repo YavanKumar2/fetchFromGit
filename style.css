@@ -1,0 +1,24 @@
+table
+{
+    width:50%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    margin-left: 25%;
+    margin-top: 8%;
+}
+
+th,td{
+    border: 1px solid grey;
+    padding: 8px;
+    
+}
+th{
+    background-color: aquamarine;
+}
+td{
+    background-color: antiquewhite;
+}
+#salary,#freshers{
+    text-align: center;
+}
